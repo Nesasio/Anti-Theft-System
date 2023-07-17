@@ -15,6 +15,7 @@ The major components used are:
 
 ## Hardware Simulation
 The component testing and simulation of individual component and the prototype circuit was done using
-[Proteus Design Suite](https://www.labcenter.com/). 
+[Proteus Design Suite](https://www.labcenter.com/).
+
 ![Proteus](https://github.com/Nesasio/Anti-Theft-System/assets/110229836/690fa4a9-01ee-44b6-80f1-b5f24f0f13f8)
-Proteus Simulation of GSM 
+*Proteus Simulation of GSM* 
