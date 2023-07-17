@@ -14,8 +14,15 @@ The major components used are:
 | 6     | Relay Module                             |
 
 ## Hardware Simulation
-The component testing and simulation of individual component and the prototype circuit was done using
+Circuit designing, component testing and simulation of individual components and the prototype circuit was done using
 [Proteus Design Suite](https://www.labcenter.com/).
 
 ![Proteus](https://github.com/Nesasio/Anti-Theft-System/assets/110229836/690fa4a9-01ee-44b6-80f1-b5f24f0f13f8)
 *Proteus Simulation of GSM* 
+
+## Functionality
+This system adds an additional layer of security to the vehicle by password locking the ignition system of the 
+vehicle. Whenever the ignition is to be turned on, this system will ask for a passowrd, and will grant access if
+the correct password is entered. However, when incorrect password is entered, this system will not allow the
+ignition to be turned on and will notify the owner the current location of the vehicle via SMS, hence, saving
+from theft.
