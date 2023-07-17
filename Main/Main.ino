@@ -5,32 +5,6 @@
  * location of the vehicle via SMS activation.
  * 
  * 
- * Developed for course - Engineering Practicum (semester - 6)
- * Department of Mechanical Engineering,
- * Indian Institute of Technology, Patna
- * 
- * 
- * Developed by:
- *      N Vipin Kumar Dhakad
- *      Ansh Saxena
- *      Rudrransh Saxena
- *      S Ankur Singh
- *      M Nishant Khatane
- * 
- * 
- * Proprietary and Confidential:
- *    This file and its content are copyright of RudyTech Corporations Pvt. Ltd. 
- *    Partnered with Indian Institute of Technology, Patna (2022-23). 
- *    All rights reserved.
- *    
- *    This file contains the driver arduino code of the system.
- *    The information contained in this file is the sole property of 
- *    RudyTech Corporations Pvt. Ltd. Any redistribution or reproduction 
- *    of part or all of the contents of this file in any form without the 
- *    prior written permission of RudyTech Corporations Pvt. Ltd. is prohibited.
- *    
- */
-
 // ------------------------ START OF THE PROGRAM ----------------------------
  
 #include <TinyGPSPlus.h>
