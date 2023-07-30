@@ -13,6 +13,11 @@ The major components used are:
 | 5     | Membrane Keypad                          |
 | 6     | Relay Module                             |
 
+## Circuit
+The circuit diagram was created using [circuito.io](https://www.circuito.io/).
+![Circuit](https://github.com/Nesasio/Anti-Theft-System/assets/110229836/23decbbe-5285-4745-9024-b6b396e17bb2)
+*Basic Circuit*
+
 ## Hardware Simulation
 Circuit designing, component testing and simulation of individual components and the prototype circuit was done using
 [Proteus Design Suite](https://www.labcenter.com/).
