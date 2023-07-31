@@ -14,7 +14,9 @@ The major components used are:
 | 6     | Relay Module                             |
 
 ## Circuit
-The circuit diagram was created using [circuito.io](https://www.circuito.io/).
+The circuit diagram was created using [circuito.io](https://www.circuito.io/). Arduino Mega is the brain of the system, the
+GSM module is used for communication with the user via SMS. The GPS module will fetch the location in real time and the
+relay module will be used to connect the system with the ignition system.
 
 ![Circuit](https://github.com/Nesasio/Anti-Theft-System/assets/110229836/23decbbe-5285-4745-9024-b6b396e17bb2)
 *Basic Circuit*
