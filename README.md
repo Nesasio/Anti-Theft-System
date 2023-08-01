@@ -12,6 +12,7 @@ The major components used are:
 | 4     | 16x2 LCD Display                         |
 | 5     | Membrane Keypad                          |
 | 6     | Relay Module                             |
+| 7     | Lithium Polymer Battery                  |
 
 ## Circuit
 The circuit diagram was created using [circuito.io](https://www.circuito.io/). Arduino Mega is the brain of the system, the
