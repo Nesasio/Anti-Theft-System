@@ -15,7 +15,7 @@ The major components used are:
 | 7     | Lithium Polymer Battery                  |
 
 ## Circuit
-The circuit diagram was created using [circuito.io](https://www.circuito.io/). Arduino Mega is the brain of the system, the
+The circuit diagram was created using [circuito.io](https://www.circuito.io/). Arduino Mega is the brain of the system, and the
 GSM module is used for communication with the user via SMS. The GPS module will fetch the location in real time and the
 relay module will be used to connect the system with the ignition system.
 
