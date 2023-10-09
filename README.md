@@ -20,14 +20,14 @@ GSM module is used for communication with the user via SMS. The GPS module will 
 relay module will be used to connect the system with the ignition system.
 
 ![Circuit](https://github.com/Nesasio/Anti-Theft-System/assets/110229836/23decbbe-5285-4745-9024-b6b396e17bb2)
-*Basic Circuit*
+*Fig.1 Circuit Schematic*
 
 ## Hardware Simulation
 Circuit designing, component testing and simulation of individual components and the prototype circuit was done using
 [Proteus Design Suite](https://www.labcenter.com/).
 
 ![Proteus](https://github.com/Nesasio/Anti-Theft-System/assets/110229836/690fa4a9-01ee-44b6-80f1-b5f24f0f13f8)
-*Proteus Simulation of GSM* 
+*Fig. 2 Proteus Simulation of GSM* 
 
 ## Functionality
 This system adds an additional layer of security to the vehicle by password locking the ignition system of the 
